@@ -1,5 +1,5 @@
 /*
-   Condidate : Chihab Rouibi
+   Candidate : Chihab Rouibi
    Date      : July 20, 2023
    Goal      : Find the first non-repeated character in the given string using Typescript.
 */
